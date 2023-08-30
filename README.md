@@ -1,4 +1,4 @@
-![finish.png](screenshot/finish.png)
+![finish.png](src/test/screenshot/finish.png)
 
-![all](screenshot/file_all.jpg)
-![itog](screenshot/itog.jpg)
+![all](src/test/screenshot/file_all.jpg)
+![itog](src/test/screenshot/itog.jpg)
