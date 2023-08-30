@@ -1,2 +1,2 @@
-![Процесс_создания](/screenshot/скрины%20работы.jpg)
-![Итог](/screenshot/Итог.jpg)
+![all](/screenshot/file_all.jpg)
+![Itog](/screenshot/itog.jpg)
